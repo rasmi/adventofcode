@@ -1,4 +1,4 @@
-"Day 4: Camp Cleanup"
+"""Day 4: Camp Cleanup"""
 
 
 def split_assignments(assignment_pair):
