@@ -1,6 +1,6 @@
 """Day 5: Supply Stacks"""
-import re
 import copy
+import re
 
 
 def parse_stacks(stacks_raw):
